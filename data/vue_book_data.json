@@ -1,0 +1,46 @@
+[
+    {
+        "isbn": "9784863543324",
+        "title": "Vue.jsビギナーズガイド 3.x対応",
+        "authors": [
+            "ushironoko"
+        ],
+        "description": "Vue.js3.0の入門に最適!",
+        "categories": null
+    },
+    {
+        "isbn": "9784863543522",
+        "title": "現場で使えるVue.js 3.X 実践ガイド",
+        "authors": [
+            "MONSTER DIVE"
+        ],
+        "description": "Vue.jsの実践が学べる1冊!",
+        "categories": null
+    },
+    {
+        "isbn": "9784297130725",
+        "title": "Vue 3 フロントエンド開発の教科書",
+        "authors": [
+            "WINGSプロジェクト齊藤新三"
+        ],
+        "description": "人気のWebフロントエンドフレームワーク「Vue.js」がバージョンアップして「Vue 3」となり、TypeScriptの標準採用、新機能Composition API、Vite、Piniaの搭載など、大幅に機能が更新・強化されました。それに伴い、Vue 3では、従来のOptions APIを利用したコンポーネント開発とは異なる開発手法が必要となります。本書では、Composition APIによるコンポーネント開発やPiniaによる状態管理、Vue RouterによるSPA開発、非同期処理やユニットテストなどを新機能を駆使して解説しており、Vue 3によるフロントエンド開発手法が1冊ですべて身に付く内容になっています。",
+        "categories": null
+    },
+    {
+        "isbn": "9784798158921",
+        "title": "動かして学ぶ！Vue.js開発入門",
+        "authors": [
+            "森巧尚"
+        ],
+        "description": "【Vue.js（ビュージェイエス）とは】 Vue.jsは、Webアプリ開発用のJavaScriptフレームワークです。 比較的小規模の開発から利用でき、さらにWebアプリ開発で主流になりつつある、 シングルページアプリケーション（SPA）を構築することもできるため、 Web開発で大人気のフレームワークです。 【本書の概要】 Vue.jsの基本機能を押さえたサンプルを元に、Webアプリ開発手法を学ぶことができます。 具体的には、ニーズの高い、データバインディング、イベント、ライブラリの利用、コンポーネントなど 開発の現場でニーズの高いトピックを中心に解説。 さらに現在、主流になりつつあるSPAの作成に役立つポイントも盛り込みます。 【ターゲット】 フロントエンドエンジニア初心者 【著者】 森巧尚（もり・よしなお） この世にパソコンが誕生したばかりの時代からミニゲームを作り続けて30数年。 現在は、iPhoneアプリやFlash、HTML5などのオリジナルゲームのコンテンツ制作、執筆活動、 関西学院大学非常勤講師などを行う。 最近は、IchigoJamで小学生向けのプログラミングを行うPCN大阪やCoder Dojoなどでも活動している。 著書：『Python1年生』『Java1年生』（翔泳社）、『小学生でもわかるiPhoneアプリの作り方』（秀和システム）、 『SwiftではじめるiPhoneアプリ開発の教科書』（マイナビ）『iPhoneのゲームアプリをつくろう！』（秀和システム） 『よくわかるiPhoneアプリ開発の教科書』（マイナビ）など、多数。",
+        "categories": null
+    },
+    {
+        "isbn": "9784844398356",
+        "title": "Vue.jsとFirebaseで作るミニWebサービス",
+        "authors": null,
+        "description": null,
+        "categories": null
+    },
+    null
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "isbn": "9784777519699",
+        "title": "はじめてのSpringBoot",
+        "authors": [
+            "槙俊明"
+        ],
+        "description": "大幅バージョンアップに合わせて全面改訂!PaaS「Cloud Foundry」の使い方も追加!新世代「Javaフレームワーク」",
+        "categories": null
+    },
+    null,
+    {
+        "isbn": "9784802611855",
+        "title": "現場至上主義 Spring Boot2徹底活用",
+        "authors": [
+            "廣末丈士",
+            "宮林岳洋"
+        ],
+        "description": "超実践、高速開発フレームワーク解説書。Doma2によるデータアクセスの最適化からThymeleafによる画面開発の効率化、Spring Securityによる高機能セキュリティ、Dockerを活用したチーム開発、Spring Profilesによる運用の最適化まで、いますぐ知り、使いたい現場の生の技術を、密に凝縮。JDK8/11両対応。",
+        "categories": null
+    }
+]
